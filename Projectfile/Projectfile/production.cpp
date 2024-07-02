@@ -1,0 +1,2 @@
+#pragama once
+#include <iostream>
